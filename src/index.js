@@ -6,6 +6,7 @@ import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <>
+  <h1>Todo App</h1>
     <App />
   </>,
   document.getElementById('root')
